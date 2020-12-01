@@ -19,6 +19,7 @@
 
 ## Kubernetes
 
+* [Kubernetes Patterns - Declarative Deployments](https://www.magalix.com/blog/kubernetes-patterns-declarative-deployments)
 * [Understanding resource limits in kubernetes: cpu time](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
 * [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 * [Deployments vs StatefulSets vs DaemonSets](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
@@ -28,4 +29,5 @@
 * [DigitalOcean eBook: Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers)
 * [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 * [EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud](https://www.stackrox.com/post/2020/10/eks-vs-gke-vs-aks/)
+* [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
 
