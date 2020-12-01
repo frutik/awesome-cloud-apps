@@ -31,4 +31,5 @@
 * [EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud](https://www.stackrox.com/post/2020/10/eks-vs-gke-vs-aks/)
 * [Kubernetes Workers Autoscaling based on RabbitMQ queue size](https://itnext.io/kubernetes-workers-autoscaling-based-on-rabbitmq-queue-size-cb0803193cdf)
 * [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
+* [How to deploy application on Kubernetes with Helm](https://wkrzywiec.medium.com/how-to-deploy-application-on-kubernetes-with-helm-39f545ad33b8)
 
