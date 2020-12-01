@@ -55,12 +55,9 @@
   Deployment, Pod Disruption Budget, Horizontal Pod Autoscaler, NetworkPolicy
 * [Understanding resource limits in kubernetes: cpu time](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
 
-### Platforms
+### Platforms, Frameworks and Tools
 
 * [EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud](https://www.stackrox.com/post/2020/10/eks-vs-gke-vs-aks/)
-
-### Frameworks and tools
-
 * [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
 
 
