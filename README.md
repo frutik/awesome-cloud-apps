@@ -18,3 +18,8 @@
 * [Provisioned Concurrency: What it is and how to use it with the Serverless Framework](https://www.serverless.com/blog/aws-lambda-provisioned-concurrency)
 
 ## Kubernetes
+
+* [Essential Kubernetes Resources](https://medium.com/better-programming/essential-kubernetes-resources-2ccb250bcf44)
+  Deployment, Pod Disruption Budget, Horizontal Pod Autoscaler, NetworkPolicy
+
+* How we learned to improve Kubernetes CronJobs at Scale. [Part 1](https://eng.lyft.com/improving-kubernetes-cronjobs-at-scale-part-1-cf1479df98d4?gi=4912bee4ede), [Part 2](https://eng.lyft.com/how-we-learned-to-improve-kubernetes-cronjobs-at-scale-part-2-of-2-dad0c973ffca)
