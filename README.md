@@ -4,6 +4,14 @@
 
 * [Service mesh: A critical component of the cloud native stack](https://www.cncf.io/blog/2017/04/26/service-mesh-critical-component-cloud-native-stack/)
 
+### The Resilient Architecture Collection (by Adrian Hornsby)
+
+* [Part 1: Embracing failure at scale](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6)
+* [Part 2: Avoiding Cascading Failures](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-2-9b51a7e2f10f)
+* [Part 3: Preventing Service Failures with Health Check](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
+
+* [The Chaos Engineering Collection](https://adhorn.medium.com/the-chaos-engineering-collection-5e188d6a90e2)
+
 ## AWS
 
 ### Serverless
@@ -32,4 +40,7 @@
 * [Kubernetes Workers Autoscaling based on RabbitMQ queue size](https://itnext.io/kubernetes-workers-autoscaling-based-on-rabbitmq-queue-size-cb0803193cdf)
 * [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
 * [How to deploy application on Kubernetes with Helm](https://wkrzywiec.medium.com/how-to-deploy-application-on-kubernetes-with-helm-39f545ad33b8)
+* [Kubernetes: Merge Multiple YAML Files Into One](https://levelup.gitconnected.com/kubernetes-merge-multiple-yaml-into-one-e8844479a73a)
+* [Kubernetes: Change base YAML config for different environments prod/test using Kustomize](https://levelup.gitconnected.com/kubernetes-change-base-yaml-config-for-different-environments-prod-test-6224bfb6cdd6)
+
 
