@@ -27,20 +27,41 @@
 
 ## Kubernetes
 
-* [Kubernetes Patterns - Declarative Deployments](https://www.magalix.com/blog/kubernetes-patterns-declarative-deployments)
-* [Understanding resource limits in kubernetes: cpu time](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
+### General 
+
 * [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
-* [Deployments vs StatefulSets vs DaemonSets](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
-* [Essential Kubernetes Resources](https://medium.com/better-programming/essential-kubernetes-resources-2ccb250bcf44)
-  Deployment, Pod Disruption Budget, Horizontal Pod Autoscaler, NetworkPolicy
-* How we learned to improve Kubernetes CronJobs at Scale. [Part 1](https://eng.lyft.com/improving-kubernetes-cronjobs-at-scale-part-1-cf1479df98d4?gi=4912bee4ede), [Part 2](https://eng.lyft.com/how-we-learned-to-improve-kubernetes-cronjobs-at-scale-part-2-of-2-dad0c973ffca)
 * [DigitalOcean eBook: Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers)
 * [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-* [EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud](https://www.stackrox.com/post/2020/10/eks-vs-gke-vs-aks/)
 * [Kubernetes Workers Autoscaling based on RabbitMQ queue size](https://itnext.io/kubernetes-workers-autoscaling-based-on-rabbitmq-queue-size-cb0803193cdf)
-* [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
+
+### Deployment
+* [Kubernetes Patterns - Declarative Deployments](https://www.magalix.com/blog/kubernetes-patterns-declarative-deployments)
+* [Kubernetes rolling updates, rollbacks and multi-environments](https://itnext.io/kubernetes-rolling-updates-rollbacks-and-multi-environments-4ff9912df5)
+
+### ???
+
 * [How to deploy application on Kubernetes with Helm](https://wkrzywiec.medium.com/how-to-deploy-application-on-kubernetes-with-helm-39f545ad33b8)
 * [Kubernetes: Merge Multiple YAML Files Into One](https://levelup.gitconnected.com/kubernetes-merge-multiple-yaml-into-one-e8844479a73a)
 * [Kubernetes: Change base YAML config for different environments prod/test using Kustomize](https://levelup.gitconnected.com/kubernetes-change-base-yaml-config-for-different-environments-prod-test-6224bfb6cdd6)
+
+### Scheduled tasks
+
+* How we learned to improve Kubernetes CronJobs at Scale. [Part 1](https://eng.lyft.com/improving-kubernetes-cronjobs-at-scale-part-1-cf1479df98d4?gi=4912bee4ede), [Part 2](https://eng.lyft.com/how-we-learned-to-improve-kubernetes-cronjobs-at-scale-part-2-of-2-dad0c973ffca)
+
+### Resources understanding
+
+* [Deployments vs StatefulSets vs DaemonSets](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
+* [Essential Kubernetes Resources](https://medium.com/better-programming/essential-kubernetes-resources-2ccb250bcf44)
+  Deployment, Pod Disruption Budget, Horizontal Pod Autoscaler, NetworkPolicy
+* [Understanding resource limits in kubernetes: cpu time](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
+
+### Platforms
+
+* [EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud](https://www.stackrox.com/post/2020/10/eks-vs-gke-vs-aks/)
+
+### Frameworks and tools
+
+* [Kubeflow 1.0 — Quick Overview](https://medium.com/@bv_subhash/kubeflow-1-0-quick-overview-d515834d3c67)
+
 
 
