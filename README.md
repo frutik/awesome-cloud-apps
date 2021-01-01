@@ -17,6 +17,7 @@
 ### Serverless
 
 * [Don’t use Lambda to move data! API Gateway can help](https://levelup.gitconnected.com/dont-use-lambda-to-move-data-api-gateway-can-help-fe899df239e6)
+* [Serverless Pitfalls: Issues With Running a Startup on AWS Lambda](https://medium.com/@emaildelivery/serverless-pitfalls-issues-you-may-encounter-running-a-start-up-on-aws-lambda-f242b404f41c)
 
 #### Performance, cold start
 
