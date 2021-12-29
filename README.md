@@ -17,6 +17,7 @@
 ### RDS
 
 * [Running out of IOPS in AWS RDS?](https://faun.pub/running-out-of-iops-in-aws-rds-lets-discuss-on-the-work-around-5430f2dd51df)
+* [The gp2 burst balance credits for the RDS database instance are low](https://stackoverflow.com/questions/67618980/aws-rds-message-for-gp2)
 
 ### Serverless
 
