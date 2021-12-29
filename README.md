@@ -14,6 +14,10 @@
 
 ## AWS
 
+### RDS
+
+* [Running out of IOPS in AWS RDS?](https://faun.pub/running-out-of-iops-in-aws-rds-lets-discuss-on-the-work-around-5430f2dd51df)
+
 ### Serverless
 
 * [Don’t use Lambda to move data! API Gateway can help](https://levelup.gitconnected.com/dont-use-lambda-to-move-data-api-gateway-can-help-fe899df239e6)
