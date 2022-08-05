@@ -54,6 +54,11 @@
 * [Rate-limiting for your Kubernetes applications with NGINX ingress](https://medium.com/titansoft-engineering/rate-limiting-for-your-kubernetes-applications-with-nginx-ingress-2e32721f7f57)
 * [Rate Limiting with the HAProxy Kubernetes Ingress Controller](https://www.haproxy.com/blog/rate-limiting-with-the-haproxy-kubernetes-ingress-controller/)
 
+
+### Services and Headless Services
+
+* [Building a headless service in Kubernetes](https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8)
+
 ### Complex apps and environments
 
 * [How to deploy application on Kubernetes with Helm](https://wkrzywiec.medium.com/how-to-deploy-application-on-kubernetes-with-helm-39f545ad33b8)
