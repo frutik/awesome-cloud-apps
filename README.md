@@ -55,7 +55,9 @@
 * [Rate Limiting with the HAProxy Kubernetes Ingress Controller](https://www.haproxy.com/blog/rate-limiting-with-the-haproxy-kubernetes-ingress-controller/)
 
 
-### Services and Headless Services
+### Services 
+
+#### Headless Services
 
 * [Building a headless service in Kubernetes](https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8)
 
