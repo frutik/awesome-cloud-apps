@@ -60,6 +60,7 @@
 #### Headless Services
 
 * [Building a headless service in Kubernetes](https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8)
+* [DOCKER AND KUBERNETES HEADLESS SERVICE AND DISCOVERING PODS](https://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Headless_Service.php)
 
 ### Complex apps and environments
 
