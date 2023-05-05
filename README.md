@@ -24,6 +24,7 @@
 * [Don’t use Lambda to move data! API Gateway can help](https://levelup.gitconnected.com/dont-use-lambda-to-move-data-api-gateway-can-help-fe899df239e6)
 * [Serverless Pitfalls: Issues With Running a Startup on AWS Lambda](https://medium.com/@emaildelivery/serverless-pitfalls-issues-you-may-encounter-running-a-start-up-on-aws-lambda-f242b404f41c)
 * [Best Practices for AWS Lambda Container Reuse](https://medium.com/capital-one-tech/best-practices-for-aws-lambda-container-reuse-6ec45c74b67e)
+* [How to temporarily disable an AWS Lambda function using AWS CLI without removing the function](https://www.mikulskibartosz.name/temporarily-disable-aws-lambda-using-aws-cli/)
 
 #### Performance, cold start
 
