@@ -50,6 +50,8 @@
 
 ### Ingress
 
+* [Kubernetes NGINX Ingress WAF with ModSecurity](https://systemweakness.com/nginx-ingress-waf-with-modsecurity-from-zero-to-hero-fa284cb6f54a)
+
 #### Ratelimiting
 
 * [Rate-limiting for your Kubernetes applications with NGINX ingress](https://medium.com/titansoft-engineering/rate-limiting-for-your-kubernetes-applications-with-nginx-ingress-2e32721f7f57)
